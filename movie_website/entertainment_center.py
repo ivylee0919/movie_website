@@ -18,11 +18,11 @@ pride_and_prejudice = media.Movie("Pride and Prejudice",
 									"2h 9min")
 zootopia = media.Movie("Zootopia",
 						"http://img31.mtime.cn/CMS/Gallery/2015/12/11/131226.99857115_1000.jpg",
-						"https://www.youtube.com/watch?v=WdS97-g7Ng4",
+						"https://www.youtube.com/watch?v=jWM0ct-OLsM",
 						"1h 48min")
 inside_out = media.Movie("Inside Out",
 							"http://ww1.sinaimg.cn/large/893c012ajw1epssf0h4ahj20kn0uk119.jpg",
-							"https://www.youtube.com/watch?v=cF2M6lGZ6Rk",
+							"https://www.youtube.com/watch?v=seMwpP0yeu4",
 							"1h 35min")
 incredibles = media.Movie("The Incredibles",
 							"http://i-7.vcimg.com/trim/c9f9bbc13ac1d7895190dfcbc3b5ea9f888000/trim.jpg",
