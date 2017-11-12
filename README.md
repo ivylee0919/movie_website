@@ -18,7 +18,22 @@
 2. Execute the command `python entertainment_center.py` to Launch the application.
 3. Home page will open in your browser, as shown blow:
 
-   ![HomePage](https://github.com/ivylee0919/movie_website/blob/master/movie_website/HomePage.png?raw=true)
+   ![HomePage](image/HomePage.png)
 2. Click on a movie image, you can watch its trailer, as shown blow:
 
-   ![ShowTrailer](https://github.com/ivylee0919/movie_website/blob/master/movie_website/ShowTrailer.png?raw=true)
+   ![ShowTrailer](image/ShowTrailer.png)
+
+
+## Different Versions 🗃
+
+### `only_youtube_url` Directory
+
+There are only trailer urls from youtube.
+
+### `only_youku_url` Directory
+
+There are only trailer urls from youku.
+
+### `youtube_and_youku` Directory
+
+The first 3 trailer urls are from youtube, and the rest of urls are from youku. 
